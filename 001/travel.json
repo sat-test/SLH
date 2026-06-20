@@ -1,0 +1,89 @@
+{
+  "uttar_pradesh_spiritual_circuit": {
+    "title": "Uttar Pradesh Spiritual Circuit",
+    "duration": "3 Nights / 4 Days",
+    "poster": "https://raw.githubusercontent.com/sat-test/SLH/refs/heads/main/001/SLH-001-001.png",
+    "price_starting": 6999,
+    "key_inclusions": [
+      "VIP Riverfront seating at the Dashashwamedh Ghat evening Aarti.",
+      "Sankat Mochan, Kashi Vishwanath & Annapurna Golden Temple Special Entrance.",
+      "Triveni Sangam holy dip boat ride with local pandit assistance.",
+      "Spiritual walk through Ram Janmabhoomi Complex, Ayodhya."
+    ],
+    "full_itinerary": {
+      "day1": "Arrive in Varanasi. Traditional welcome. Scenic sunset cruise & VIP seating at evening Ganga Aarti. Night stay in luxury riverview suites.",
+      "day2": "Sunrise boat excursion. Special early morning Darshan at Kashi Vishwanath Temple. Afternoon drive to Prayagraj (seek blessings at Triveni Sangam), overnight in Ayodhya.",
+      "day3": "Majestic tour of Ayodhya (Ram Mandir VIP Darshan, Hanuman Garhi, Sarayu River historical walk). Proceed for late evening flight/drive to Bodhgaya.",
+      "day4": "Deep morning meditation at Mahabodhi Stupa & meditation under the sacred Bodhi Tree. Farewell and smooth return transfer to Varanasi / Varanasi Airport."
+    },
+    "other_images": []
+  },
+  "royal_rajasthan_heritage": {
+    "title": "Royal Rajasthan Heritage",
+    "duration": "5 Nights / 6 Days",
+    "poster": "https://raw.githubusercontent.com/sat-test/SLH/refs/heads/main/001/SLH-001-002.png",
+    "price_starting": 14300,
+    "key_inclusions": [
+      "Gala Dinner at a restored medieval Jaipur fort overlooking the lighted city.",
+      "Private jeep safari with sunset mocktails over Jaisalmer golden sand dunes.",
+      "Lake Pichola private boat cruise in Udaipur with Palace Island tour.",
+      "Curated tour of Mehrangarh Castle under regional expert guides."
+    ],
+    "full_itinerary": {
+      "day1": "Pink City arrival (Jaipur). Shell necklace greeting. Explore local traditional block print workshops, Hawa Mahal capture, and welcome palace dinner.",
+      "day2": "Morning Amber Fort ascend via private open-jeep. Afternoon drive to Blue City (Jodhpur). Traditional Rajasthani Thali experience.",
+      "day3": "Wander historical Mehrangarh Fort & Jaswant Thada mausoleum. Head west into Jaisalmer golden desert. Evening camel trek and luxury desert glamping with live Sufi performance.",
+      "day4": "Guided exploration of Havelis inside Jaisalmer Golden Living Fort. Drive to the romantic lake-city of Udaipur.",
+      "day5": "Royal lake Udaipur excursions. City Palace museum private preview, Saheliyon-ki-Bari gardens, and elegant sunset catamaran cruise on Lake Pichola.",
+      "day6": "Authentic breakfast. Transfer to Udaipur / Jodhpur Airport with memorable mementos."
+    },
+    "other_images": []
+  },
+  "majestic_char_dham_yatra": {
+    "title": "Majestic Char Dham Yatra",
+    "duration": "11 Nights / 12 Days",
+    "poster": "https://raw.githubusercontent.com/sat-test/SLH/refs/heads/main/001/SLH-001-003.png",
+    "price_starting": 34999,
+    "key_inclusions": [
+      "Complete registration, VIP pass & Queue-bypass at all four Himalayan temples.",
+      "Full mountain paramedic medical-pax support shell throughout the journey.",
+      "Comfortable pre-booked luxury premium cottages and dharamshalas.",
+      "Helicopter charter options from Dehradun or Phata direct to Temple helipads."
+    ],
+    "full_itinerary": {
+      "day1": "Haridwar to scenic mountain hamlet Barkot. Evening dynamic Ganga briefing.",
+      "day2": "Trek or pony ride up to Yamunotri Holy Shrine. Holy bath in Surya Kund. Return to Barkot.",
+      "day3": "Scenic mountain ridge drive to Uttar-Kashi along holy Bhagirathi River banks.",
+      "day4": "Day-trip up into Gangotri Temple. Holy dip in Ganga icy-pure stream, temple Puja, and back to Uttarkashi.",
+      "day5": "Long gorgeous drive to Guptkashi, surrounded by snow-draped Himalayan slopes.",
+      "day6": "Helicopter ride or pristine trek up to Kedarnath Temple. Unforgettable evening Shiva Aarti.",
+      "day7": "Watch sunrise over Kedarnath Dome. Descend back safely to Guptkashi stay.",
+      "day8": "Drive to Badrinath Temple via beautiful Joshimath and high-altitude valleys.",
+      "day9": "Hot springs dip, Badrinath Temple Puja. Evening trip to the ancient border village Mana.",
+      "day10": "Return drive down to the peaceful confluence towns of Rudraprayag / Srinagar.",
+      "day11": "Drive to spiritual capital Rishikesh. Yoga experience, Laxman Jhula bridge, & farewell dinner.",
+      "day12": "Guided transfer to Dehradun Airport or Haridwar station."
+    },
+    "other_images": []
+  },
+  "golden_triangle_spiritual_gateway": {
+    "title": "Golden Triangle Spiritual Gateway",
+    "duration": "4 Nights / 5 Days",
+    "poster": "https://raw.githubusercontent.com/sat-test/SLH/refs/heads/main/001/SLH-001-004.png",
+    "price_starting": 8999,
+    "key_inclusions": [
+      "Express skip-the-queue passes to historical monuments.",
+      "Evening Prem Mandir musical and lights presentation in Vrindavan.",
+      "Special morning guided walk of Banke Bihari and ISKCON temples.",
+      "Bespoke culinary experience with traditional sweets (Agra Petha & Mathura Peda)."
+    ],
+    "full_itinerary": {
+      "day1": "Delhi arrival. Explore majestic architectural spots (Birla Mandir, Akshardham, dynamic India Gate twilight walk). Stay in high-class business-boutique hotel.",
+      "day2": "Delhi to historical city Agra. Guided private afternoon capture of World Wonder Taj Mahal, and Agra Fort. Heritage evening dinner.",
+      "day3": "Depart Agra to Mathura (Krishna Birthplace temple visit). Proceed to holy town Vrindavan. Attend the majestic evening lights display at the stunning Prem Mandir.",
+      "day4": "Complete spiritual walkthrough inside Vrindavan's narrow alleys, Nidhivan (sacred forest), and historic Banke Bihari temple. Return to Delhi.",
+      "day5": "Leisure breakfast, souvenirs gifting, and seamless transfers to Delhi Airport / New Delhi Railway Station."
+    },
+    "other_images": []
+  }
+}
